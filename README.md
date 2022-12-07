@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm Jian Hao. Full stack developer using [Vue Js](https://vuejs.org/) and [Nest JS](https://nestjs.com/)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vernonht&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Jian Hao's GitHub stats](https://github-readme-stats.vercel.app/api?username=vernonht&count_private=true&show_icons=true&theme=github_dark)
 <!--
 **vernonht/vernonht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
