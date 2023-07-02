@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-I'm Jian Hao. Full stack developer using [Vue Js](https://vuejs.org/) and [Nest JS](https://nestjs.com/)
+I'm Jian Hao. Full stack developer using [Vue Js](https://vuejs.org/) and [Nest JS](https://nestjs.com/).
+Occasionally use [Next Js](https://nextjs.org/) for hobby and small scale projects
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vernonht&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
