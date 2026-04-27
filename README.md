@@ -1,22 +1,12 @@
 ### Hi there 👋
 
-I'm Jian Hao. Full stack developer using [Vue Js](https://vuejs.org/) and [Nest JS](https://nestjs.com/).
-Occasionally use [Next Js](https://nextjs.org/) for hobby and small scale projects
+I'm Jian Hao. A passionate full-stack developer specializing in [Vue.js](https://vuejs.org/), [Next.js](https://nextjs.org/) and [NestJS](https://nestjs.com/). 
+
+🔭 Currently working on: Building scalable web applications  
+🌱 Learning: Backend development with [Go](https://go.dev/), and event handling with [RxJS](https://rxjs.dev/)    
+💬 Ask me about: Ask me about: Frontend architecture, component design, state management (Pinia/Vuex), or responsive UI/UX  
+⚡ Fun fact: Coffee and code mix well together ☕
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vernonht&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Jian Hao's GitHub stats](https://github-readme-stats.vercel.app/api?username=vernonht&count_private=true&show_icons=true&theme=github_dark)
-<!--
-**vernonht/vernonht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
